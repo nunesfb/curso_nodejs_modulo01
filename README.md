@@ -1,4 +1,4 @@
-# curso_nodejs - Em Construção
+# curso_nodejs_modulo01 - Em Construção
 
 Curso que aborda diferentes recursos e bibliotecas do NodeJS.
 
